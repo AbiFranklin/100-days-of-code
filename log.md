@@ -6,14 +6,14 @@
 
 **Thoughts:** XCode seems to be very user friendly and I'm looking forward to building future apps with it.
 
-**Link to work:**0123
+**Link to work:**
 
 
 ### Day 2: June 12, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Made a functioning weather app with API. Completed second iOS app - Swift print to console.
 
-**Thoughts:** 
+**Thoughts:** I think I'm finally getting my head around APIs. I want to dig deeper into this app and develope it out for use with heat stress warnings at work.
 
 **Link to work:**
 
